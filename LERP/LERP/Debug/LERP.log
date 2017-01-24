@@ -1,0 +1,12 @@
+﻿  LERP.cpp
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(86): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(87): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sefremollo\documents\visual studio 2015\projects\lerp\lerp\lerp.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  LERP.vcxproj -> C:\Users\sefremollo\documents\visual studio 2015\Projects\LERP\Debug\LERP.exe
